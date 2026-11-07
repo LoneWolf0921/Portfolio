@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" width="100%" height="100%">
+  <defs>
+    <linearGradient id="p2Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A2744"/>
+      <stop offset="100%" stop-color="#0C1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="16" fill="url(#p2Grad)"/>
+  <rect x="20" y="20" width="560" height="40" rx="8" fill="#0C1120" stroke="#2C4D90" stroke-width="1"/>
+  <circle cx="45" cy="40" r="5" fill="#3282E0"/>
+  <circle cx="65" cy="40" r="5" fill="#2C4D90"/>
+  <circle cx="85" cy="40" r="5" fill="#2C4D90"/>
+  <rect x="110" y="32" width="220" height="16" rx="4" fill="#1B294B"/>
+  
+  <!-- Analytics / Dashboard preview representation -->
+  <polyline points="50,220 130,170 210,195 290,130 370,160 450,110 540,140" fill="none" stroke="#3282E0" stroke-width="3"/>
+  <circle cx="290" cy="130" r="6" fill="#3282E0"/>
+  <circle cx="450" cy="110" r="6" fill="#3282E0"/>
+  <circle cx="540" cy="140" r="6" fill="#3282E0"/>
+  
+  <rect x="50" y="250" width="140" height="24" rx="4" fill="#2C4D90" opacity="0.4"/>
+  <rect x="210" y="250" width="160" height="24" rx="4" fill="#2C4D90" opacity="0.4"/>
+  <rect x="390" y="250" width="160" height="24" rx="4" fill="#3282E0" opacity="0.3"/>
+
+  <text x="300" y="330" fill="#DFE0E0" font-family="'Montserrat', sans-serif" font-size="16" font-weight="bold" letter-spacing="2" text-anchor="middle">DATA & DASHBOARD SYSTEM</text>
+  <text x="300" y="352" fill="#3282E0" font-family="'Montserrat', sans-serif" font-size="12" letter-spacing="1" text-anchor="middle">PROJECT 02 PREVIEW</text>
+</svg>
